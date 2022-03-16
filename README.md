@@ -15,3 +15,5 @@ Details on deployment.
 ## How to contribute
 
 Writing some other stuff in contribution now too.
+
+Git Training 2014
