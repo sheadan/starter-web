@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	jason	hisemail@.com	handle
 
 # THANKS
 
