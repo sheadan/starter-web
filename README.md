@@ -16,4 +16,6 @@ Details on deployment.
 
 Writing some other stuff in contribution now too.
 
+Fork the repository and then issue Pull requests for review.
+
 Git Training 2014
